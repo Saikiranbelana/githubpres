@@ -19,7 +19,7 @@ $$
 > a ***<u>[FAMOUS](http://google.com)</u>*** MAN ONCE SAID, SO AND SO
 
 1. ORDER 1
-2. BANANAS!![](images\1.jpg)
+2. BANANAS!![](images/1.jpg)
    1. APPLES
 
 - [x] BULLLET
